@@ -1,0 +1,5 @@
+2024-06-04 14:34:02,497 - demo.py_[line:57] - tools.logOperate - INFO - False
+2024-06-04 14:34:02,497 - demo.py_[line:59] - tools.logOperate - INFO - export.db
+2024-06-04 14:37:57,840 - demo.py_[line:25] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 14:59:57,709 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 14:59:57,709 - demo.py_[line:69] - tools.logOperate - INFO - file operate

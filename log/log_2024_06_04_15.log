@@ -1,0 +1,50 @@
+2024-06-04 15:02:41,688 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:02:41,688 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:02:41,688 - demo.py_[line:73] - tools.logOperate - INFO - file not exite
+2024-06-04 15:02:41,688 - demo.py_[line:76] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:05:59,450 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:05:59,451 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:05:59,451 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj{content}
+2024-06-04 15:05:59,451 - demo.py_[line:74] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:05:59,452 - demo.py_[line:77] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:06:08,242 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:06:08,242 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:06:08,242 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj这是一段新的内容
+2024-06-04 15:06:08,243 - demo.py_[line:74] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:06:08,243 - demo.py_[line:77] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:06:51,559 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:06:51,559 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:06:51,559 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj这是一段新的内容
+2024-06-04 15:06:51,559 - demo.py_[line:74] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:06:51,560 - demo.py_[line:77] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:29,110 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:07:29,110 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:07:29,111 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj这是一段新的内容
+2024-06-04 15:07:29,111 - demo.py_[line:74] - tools.logOperate - INFO - dsasd这是一段新的内容
+2024-06-04 15:07:29,111 - demo.py_[line:75] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:29,113 - demo.py_[line:78] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:36,045 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:07:36,045 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:07:36,045 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj这是一段新的内容
+2024-06-04 15:07:36,045 - demo.py_[line:74] - tools.logOperate - INFO - dsasd 这是一段新的内容
+2024-06-04 15:07:36,045 - demo.py_[line:75] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:36,045 - demo.py_[line:78] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:43,177 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:07:43,177 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:07:43,177 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj 这是一段新的内容
+2024-06-04 15:07:43,177 - demo.py_[line:74] - tools.logOperate - INFO - dsasd 这是一段新的内容
+2024-06-04 15:07:43,177 - demo.py_[line:75] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:07:43,177 - demo.py_[line:78] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:10:32,141 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:10:32,141 - demo.py_[line:69] - tools.logOperate - INFO - file operate
+2024-06-04 15:10:32,141 - demo.py_[line:73] - tools.logOperate - INFO - hfhdsjfhfhj 这是一段新的内容
+2024-06-04 15:10:32,141 - demo.py_[line:74] - tools.logOperate - INFO - dsasd 这是一段新的内容
+2024-06-04 15:10:32,141 - demo.py_[line:75] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:10:32,142 - demo.py_[line:78] - tools.logOperate - INFO - 这是一段新的内容
+2024-06-04 15:12:30,026 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:13:53,711 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:13:53,711 - demo.py_[line:93] - tools.logOperate - DEBUG - debug:False
+2024-06-04 15:13:53,712 - demo.py_[line:97] - tools.logOperate - INFO - databasename:
+2024-06-04 15:14:16,208 - demo.py_[line:26] - tools.logOperate - DEBUG - 这是一条debug信息
+2024-06-04 15:14:16,208 - demo.py_[line:93] - tools.logOperate - DEBUG - debug:False
+2024-06-04 15:14:16,208 - demo.py_[line:97] - tools.logOperate - INFO - databasename: export.db
