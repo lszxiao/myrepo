@@ -103,7 +103,7 @@ def config_demo():
 if __name__ == '__main__':
     # log_demo()
     config_demo()
-    # sqlite_db_demo()
+    sqlite_db_demo()
     # mysql_db_demo()
     # file_demo()
 
